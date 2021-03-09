@@ -1,0 +1,13 @@
+.pokecard {
+    width: 200px;
+    background-color: lightgray;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 30px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.pokecard h2 {
+    color: blue;
+}
